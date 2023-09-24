@@ -3,10 +3,12 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Plugins
 
 
 .vscode
 .vs
+.idea
 *.VC.db
 *.opensdf
 *.opendb
